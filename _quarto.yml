@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - href: projects.qmd
+        text: Projects  # line ensures Projects page = linked in navbar
     tools:
       - icon: twitter
         href: https://twitter.com/
