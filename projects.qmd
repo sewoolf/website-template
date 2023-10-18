@@ -4,7 +4,7 @@ title: "Projects"
 
 ## Project 1
 
-[Download Project 1 Files](./docs/project-files/Psych_3005_Lab_5.html)
+<iframe src="./docs/project-files/Psych_3005_Lab_5.html" width="100%" height="500px"></iframe>
 
 ## Project 2
 
