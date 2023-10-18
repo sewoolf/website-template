@@ -4,6 +4,8 @@ title: "Projects"
 
 ## Project 1
 
+[Download Project 1 Files](./docs/project-files/Psych_3005_Lab_5.html)
+
 ## Project 2
 
 ## Project 3
